@@ -163,7 +163,7 @@ services:
             - REACT_APP_PACKAGE_LIMIT_MONEY=50
 volumes:
     dbdata:
-    ```
+```
 11. Rode o comando para gerar os contâiners
 ```console
 docker-compose up --force-recreate
